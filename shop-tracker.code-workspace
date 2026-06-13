@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "shop_Tracker"
+    },
+    {
+      "path": "backend"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.DS_Store": true
+    }
+  }
+}
